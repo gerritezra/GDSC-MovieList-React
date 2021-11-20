@@ -1,5 +1,6 @@
 # Temukan Film Kuy with React.js
 Nama    : Gerrit Ezra Yudi Kairupan
+
 ID GDSC : 427
 
 
