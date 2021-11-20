@@ -6,7 +6,7 @@ const searchMovie = () => {
       <Container>
           <Row className="mt-3 justify-content-center">
             <Col md={8}>
-              <h1 className="text-center">Search Movie</h1>
+              <h1 className="text-center">Temukan Film</h1>
               <InputGroup className="mb-3">
               <a href="/" className="btn btn-dark" id="kembali">Back</a>
               <FormControl
